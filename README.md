@@ -8,3 +8,6 @@
 
 #### Day 10
 <img src="2022/images/Day 10 - Display.PNG" width="600">
+
+#### Day 12
+<img src="2022/images/Day 12 - Path.PNG" width="600">
